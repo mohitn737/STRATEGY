@@ -3,4 +3,4 @@ kamo,19234,DONE
 namo,23089,DONE
 timo,97645,DONE
 moka,98745,DONE
-tihom,34561
+tihom,34561,DONE
